@@ -1,6 +1,0 @@
-ID,Model,Year,Cylinders,Engine_Size,Transmission,Drive,Fuel_Efficiency,Make
-1,Mazda3,2020,4,2.0,Automatic,FWD,30,mazda
-2,CX-5,2021,4,2.5,Automatic,AWD,28,mazda
-3,A4,2020,4,2.0,Automatic,AWD,25,audi
-4,Q5,2021,4,2.0,Automatic,AWD,27,audi
-5,Civic,2022,4,1.8,Automatic,FWD,32,honda
